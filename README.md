@@ -1,1 +1,1 @@
-"# TUGAS-PRAKTIKUM-PBO_SHIFT3" 
+kang maaf masukin file ke reponya ga lewat command atau netbeans langsung, soalnya gagal wae jadi manual
